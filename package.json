@@ -1,0 +1,23 @@
+{
+  "name": "radzima",
+  "version": "1.0.0",
+  "description": "Demo task for Radzima",
+  "main": "index.js",
+  "scripts": {
+    "cypress:dev": "cypress open",
+    "cypress": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyShukanov/Cypress-demo.git"
+  },
+  "author": "Anton Shukanau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyShukanov/Cypress-demo/issues"
+  },
+  "homepage": "https://github.com/AnthonyShukanov/Cypress-demo#readme",
+  "devDependencies": {
+    "cypress": "^12.17.0"
+  }
+}
